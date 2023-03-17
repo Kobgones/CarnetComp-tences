@@ -22,12 +22,11 @@
 
 router.get("/api/users/:id", userControllers.read); </code></pre>
 
+[lien du projet](https://github.com/Kobgones/P3-LaPoste)
 
 Description :
 
 ### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
 
 Description :
 
