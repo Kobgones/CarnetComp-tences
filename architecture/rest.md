@@ -18,11 +18,10 @@
 
 ### Utilisation dans un projet ✔️
 
-// This route allow us to find informations of a user by its id. This route will use the function "read" of the userControllers
+  // This route allow us to find informations of a user by its id. This route will use the function "read" of the userControllers
 
-router.get("/api/users/:id", userControllers.read);
+  router.get("/api/users/:id", userControllers.read);
 
-[lien github](...)
 
 Description :
 
