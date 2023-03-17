@@ -17,7 +17,7 @@
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
 [lien du projet Virtual Met'Art](https://github.com/Kobgones/VirtualMetArt)
 
