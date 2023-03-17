@@ -19,7 +19,8 @@
 ### Utilisation dans un projet ✔️
 
 <pre><code> 
-// This route allow us to find informations of a user by its id. This route will use the function "read" of the userControllers
+// This route allow us to find a user by its id. This route use the function "read" of the userControllers
+
 router.get("/api/users/:id", userControllers.read);
 </code></pre>
 
